@@ -1,21 +1,21 @@
-wakeup
-go out to bed 
-make a bed
-take a shower
-eat breakfast
-get out from room
-call lift 
-scan key card 
-press the liftbutton
-scan key card 
-walk to the road
-across the road
-go up to the stair
-walk pass thorgh mbk
-go down the stair
-go in side  starbuck's door
-go up escalater untill 11 floorth
-walk to school
-scan the card 
-check timetable
-come in room 
+1. wakeup
+2. go out to bed 
+3. make a bed
+4. take a shower
+5. eat breakfast
+6. get out from room
+7. call lift 
+8. scan key card 
+9. press the liftbutton
+10. scan key card 
+11. walk to the road
+12. across the road
+13. go up to the stair
+14. walk pass thorgh mbk
+15. go down the stair
+16. go in side  starbuck's door
+17. go up escalater untill 11 floorth
+18. walk to school
+19. scan the card 
+20. check timetable
+21. come in room 
