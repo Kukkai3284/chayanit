@@ -1,0 +1,4 @@
+SEND 'Please enter the number' TO DISPLAY
+RECEIVE firstNumber FROM KEYBOARD
+SEND 'PLEASE enter the second number' TO DISPLAY
+SEND 'PLEASE enter the thirdNumber
