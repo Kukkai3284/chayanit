@@ -1,0 +1,10 @@
+input TEMPERATURE
+SEND "please enter the temperature" TO DISPLAY
+RECIEVE from KEYBOARD
+IF TEMPERATURE <18 °C
+SEND "Cold the perfect temperature for sleep is 18-20 degrees" TO DISPLAY
+IF TEMPERATURE IS >21°C 
+SEND "Perfect"
+IF TEMPARATURE is <21°C
+SEND "No!, the perfect temperature for sleep is 18-21 degrees"
+END
